@@ -1,0 +1,37 @@
+nav ul {
+    background-color: red;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+nav ul {
+  background-color: red;
+  border-style: solid;
+  border-color: gold;
+  border-width: 2px;
+  padding: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+}
+
+body {
+  background-color: darkred;
+  font-family: "Roboto Slab";
+}
+p {
+    font-family: "Roboto Slab";
+    z-index: 2
+}
+body {
+    color: gold
+}
+h1 {
+    color: black
+}
